@@ -1,0 +1,148 @@
+.Top {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.profile {
+  line-height: 2;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.s {
+  height: 25%;
+  width: 25%;
+  border-radius: 50%;
+  float: left;
+  background-color: grey;
+  margin-right: 30px;
+}
+
+.web {
+  height: 25%;
+  width: 25%;
+  border-radius: 50%;
+  float: right;
+  background-color: grey;
+  margin-left: 30px;
+}
+
+.s1 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin-top: 50px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  line-height: 2;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  line-height: 2;
+  margin: 0 auto;
+}
+
+.s:hover {
+  background-color: gold;
+}
+
+.web:hover {
+  background-color: gold;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 0;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.profile {
+  margin: 0 auto;
+  width: 40%;
+}
+
+.btn {
+  position: relative;
+  top: 40px;
+  color: white;
+  background-color: #11cdd4;
+  border-radius: 5px;
+  line-height: 2;
+  padding: 10px;
+}
+
+.btn:hover {
+  background-color: #2bc4ad;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 5px 0 0 0;
+  margin: 80px auto;
+  color: grey;
+  width: 5%;
+}
+
+.contact-me {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.bottom-container {
+  margin-top: 100px;
+  background-color: #66BFBF;
+  padding: 50px;
+  padding-top: 20px;
+}
+
+.footer-link {
+  margin: 20px;
+  color: #11999E;
+  line-height: 4;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
